@@ -99,6 +99,7 @@ Option 150] [نتيجة: هاتف IP حصل على عنوان تلقائيًا �
 VLAN الصحيح، مع تفعيل Option 150 اللي مكّن الهواتف من التعرف على
 خادم TFTP وتشغيل نفسها بشكل كامل — وهذا أساس عمل باقي المشروع
 (Voice VLAN وQoS اللي اشتغل عليهم زملائي).
+ [Download Packet Tracer file (.pkt)]https://drive.google.com/file/d/1mPQpg9Sh_3QoVv7q1Qk7-yvcp5Njtks-/view?usp=sharing
 
 ## الدروس المستفادة
 فهمت عمليًا ليش VLANs المنفصلة (صوت وبيانات) تحتاج راوتر يتوسط
