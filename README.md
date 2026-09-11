@@ -17,3 +17,4 @@ Networking Cisco Packet Tracer Penetration Testing Web Application Security OSIN
 ## 📂 Portfolio Contents
 - [Networking Projects](./networking-projects/) — 4 مشاريع Packet Tracer
 - [Cybersecurity Labs](./cybersecurity-labs/) — تحديات Hackviser وTryHackMe
+-[GRC & ISO 27001 Project](./grc-iso27001-project/) — مشروع حوكمة وإدارة مخاطر متكامل
